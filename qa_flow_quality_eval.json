@@ -1,0 +1,322 @@
+{
+    "rows": [
+        {
+            "inputs.question": "How can I reschedule my appointment with Lamna Healthcare?",
+            "inputs.chat_history": [],
+            "inputs.answer": "To reschedule your appointment with Lamna Healthcare, you have a couple of convenient options available:\n\n1. **Online Portal:** You can log in to our online portal to reschedule your appointment. The portal provides real-time availability of doctors and specialists, making it easy to find a new suitable time slot for your appointment.\n\n2. **Customer Service:** Alternatively, you can also reschedule your appointment by calling our customer service. They will assist you in finding a new appointment time that works for you.\n\nRemember, if you need to reschedule, please ensure to do so at least 24 hours in advance to avoid any fees. If you have any urgent rescheduling needs, feel free to contact our emergency line for assistance.\n\nWe strive to make the rescheduling process as smooth as possible for you. Thank you for choosing Lamna Healthcare for your healthcare needs!",
+            "inputs.context": [
+                {
+                    "id": "1",
+                    "title": "Appointment Scheduling Guidelines",
+                    "content": "Patients can schedule, reschedule, or cancel appointments through our online portal or by calling our customer service. Cancellations or rescheduling should be done at least 24 hours in advance to avoid any fees. Our online system provides real-time availability of doctors and specialists, allowing for convenient booking. For urgent appointments, please contact our emergency line.",
+                    "url": "https://lamnahealthcare.com/appointment-guidelines"
+                },
+                {
+                    "id": "7",
+                    "title": "Telehealth Services",
+                    "content": "We offer virtual consultations via video conferencing for non-emergency conditions. Patients can schedule telehealth appointments online and will receive a secure link to join the session. Telehealth services are covered by most insurance plans.",
+                    "url": "https://lamnahealthcare.com/telehealth"
+                },
+                {
+                    "id": "20",
+                    "title": "Mental Health Support Programs",
+                    "content": "We offer mental health services including counseling, therapy sessions, and support groups. Licensed therapists specialize in treating anxiety, depression, stress management, and other mental health conditions. Confidential appointments can be made through our online system or by phone.",
+                    "url": "https://lamnahealthcare.com/mental-health"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": 5.0,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 5.0,
+            "line_number": 0
+        },
+        {
+            "inputs.question": "Does Lamna Healthcare share my personal information with third parties?",
+            "inputs.chat_history": [],
+            "inputs.answer": "Lamna Healthcare is committed to protecting your personal information. According to Lamna Healthcare's Privacy Policy, your personal data is not shared with third parties without your consent, except as required by law. This means that Lamna Healthcare does not share your personal information with third parties unless it is necessary by law or with your explicit consent. Your privacy and confidentiality are important to us, and we use advanced security measures to ensure the safety of your data. If you have any concerns about your personal information, please feel free to reach out to us for further clarification or assistance.",
+            "inputs.context": [
+                {
+                    "id": "2",
+                    "title": "Privacy Policy",
+                    "content": "Lamna Healthcare is committed to protecting your personal information. We use advanced security measures to ensure your data is safe and confidential. Personal data is only used for treatment purposes and is not shared with third parties without your consent, except as required by law. Patients have the right to access and correct their personal information.",
+                    "url": "https://lamnahealthcare.com/privacy-policy"
+                },
+                {
+                    "id": "3",
+                    "title": "Patient Rights and Responsibilities",
+                    "content": "Patients have the right to receive respectful and nondiscriminatory care, to be informed about their treatment options, and to have their privacy protected. Responsibilities include providing accurate health information, following prescribed treatment plans, and respecting the rights of other patients and staff.",
+                    "url": "https://lamnahealthcare.com/patient-rights"
+                },
+                {
+                    "id": "16",
+                    "title": "Medical Record Access Policy",
+                    "content": "Patients have the right to access their medical records. Records can be viewed online via our secure patient portal or requested in paper form. Identification verification is required to protect patient privacy.",
+                    "url": "https://lamnahealthcare.com/medical-records"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": 5.0,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 1.0,
+            "line_number": 1
+        },
+        {
+            "inputs.question": "What are my responsibilities as a patient at Lamna Healthcare?",
+            "inputs.chat_history": [],
+            "inputs.answer": "As a patient at Lamna Healthcare, your responsibilities include providing accurate health information, following prescribed treatment plans, and respecting the rights of other patients and staff. It is important to adhere to these responsibilities to ensure the best possible care and outcomes for yourself and others. If you have any questions or need further clarification on your responsibilities, feel free to ask.",
+            "inputs.context": [
+                {
+                    "id": "3",
+                    "title": "Patient Rights and Responsibilities",
+                    "content": "Patients have the right to receive respectful and nondiscriminatory care, to be informed about their treatment options, and to have their privacy protected. Responsibilities include providing accurate health information, following prescribed treatment plans, and respecting the rights of other patients and staff.",
+                    "url": "https://lamnahealthcare.com/patient-rights"
+                },
+                {
+                    "id": "2",
+                    "title": "Privacy Policy",
+                    "content": "Lamna Healthcare is committed to protecting your personal information. We use advanced security measures to ensure your data is safe and confidential. Personal data is only used for treatment purposes and is not shared with third parties without your consent, except as required by law. Patients have the right to access and correct their personal information.",
+                    "url": "https://lamnahealthcare.com/privacy-policy"
+                },
+                {
+                    "id": "14",
+                    "title": "Data Protection Policy",
+                    "content": "Our data protection policy outlines how we secure patient information using encryption, access controls, and regular security audits. We comply with all relevant regulations, including HIPAA, to ensure confidentiality and integrity of patient data.",
+                    "url": "https://lamnahealthcare.com/data-protection"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": NaN,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": 4.0,
+            "outputs.Coherence.gpt_coherence": 5.0,
+            "line_number": 2
+        },
+        {
+            "inputs.question": "How long does it take to process an insurance claim at Lamna Healthcare?",
+            "inputs.chat_history": [],
+            "inputs.answer": "(Failed)",
+            "inputs.context": "(Failed)",
+            "outputs.Fluency.gpt_fluency": NaN,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": NaN,
+            "outputs.Coherence.gpt_coherence": NaN,
+            "line_number": 3
+        },
+        {
+            "inputs.question": "Where can I find information about my prescribed medication?",
+            "inputs.chat_history": [],
+            "inputs.answer": "You can find detailed information about your prescribed medication in Lamna Healthcare's database, as mentioned in **Document 5: Medication Information**. This database provides usage instructions, side effects, and interactions for medications prescribed by our providers. It is recommended that patients consult this resource before starting any new medication. If you have any questions or concerns about your prescribed medication, feel free to reach out to your healthcare provider for further assistance.",
+            "inputs.context": [
+                {
+                    "id": "5",
+                    "title": "Medication Information",
+                    "content": "Our database provides detailed information about medications prescribed by our providers, including usage instructions, side effects, and interactions. Patients should consult this resource before starting any new medication and contact their provider with any questions or concerns.",
+                    "url": "https://lamnahealthcare.com/medication-info"
+                },
+                {
+                    "id": "12",
+                    "title": "Prescription Refill Procedures",
+                    "content": "Patients can request prescription refills through our online portal or by calling our pharmacy. Refill requests are processed within 48 hours. Some medications may require provider approval or an appointment before refilling.",
+                    "url": "https://lamnahealthcare.com/prescription-refills"
+                },
+                {
+                    "id": "16",
+                    "title": "Medical Record Access Policy",
+                    "content": "Patients have the right to access their medical records. Records can be viewed online via our secure patient portal or requested in paper form. Identification verification is required to protect patient privacy.",
+                    "url": "https://lamnahealthcare.com/medical-records"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": 5.0,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 5.0,
+            "line_number": 4
+        },
+        {
+            "inputs.question": "Are telehealth services covered by insurance at Lamna Healthcare?",
+            "inputs.chat_history": [],
+            "inputs.answer": "Yes, at Lamna Healthcare, telehealth services are covered by most insurance plans. Patients can schedule virtual consultations for non-emergency conditions online and will receive a secure link to join the session. This convenient option allows patients to receive care remotely while still having insurance coverage for the telehealth services.",
+            "inputs.context": [
+                {
+                    "id": "7",
+                    "title": "Telehealth Services",
+                    "content": "We offer virtual consultations via video conferencing for non-emergency conditions. Patients can schedule telehealth appointments online and will receive a secure link to join the session. Telehealth services are covered by most insurance plans.",
+                    "url": "https://lamnahealthcare.com/telehealth"
+                },
+                {
+                    "id": "19",
+                    "title": "Nutrition Counseling Services",
+                    "content": "Our nutrition counseling services help patients manage their diets to improve health outcomes. Registered dietitians provide personalized meal plans and advice for conditions like diabetes, heart disease, and weight management. Sessions can be scheduled by appointment and may be covered by insurance.",
+                    "url": "https://lamnahealthcare.com/nutrition-counseling"
+                },
+                {
+                    "id": "20",
+                    "title": "Mental Health Support Programs",
+                    "content": "We offer mental health services including counseling, therapy sessions, and support groups. Licensed therapists specialize in treating anxiety, depression, stress management, and other mental health conditions. Confidential appointments can be made through our online system or by phone.",
+                    "url": "https://lamnahealthcare.com/mental-health"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": 5.0,
+            "outputs.Groundedness.gpt_groundedness": 5.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 5.0,
+            "line_number": 5
+        },
+        {
+            "inputs.question": "What should I do if I need to discuss my billing concerns?",
+            "inputs.chat_history": [],
+            "inputs.answer": "If you need to discuss your billing concerns, you should reach out to Lamna Healthcare's billing department. They handle all charges related to your care and can assist you with any billing inquiries you may have. You can contact them to address any questions or issues regarding your billing. Remember that Lamna Healthcare offers various payment methods and financial assistance programs for eligible patients. Feel free to contact the billing department for prompt and accurate assistance with your billing concerns.",
+            "inputs.context": [
+                {
+                    "id": "10",
+                    "title": "Support Agent Best Practices",
+                    "content": "Customer support agents should provide prompt, courteous, and accurate assistance. They are trained to handle inquiries about appointments, billing, and general information. Agents should verify patient identities before disclosing sensitive information and document all interactions.",
+                    "url": "https://lamnahealthcare.com/support-best-practices"
+                },
+                {
+                    "id": "17",
+                    "title": "Refund Policy",
+                    "content": "Refunds are issued for canceled services, overpayments, or billing errors. Requests for refunds should be submitted to our billing department and are processed within 14 business days. Proof of payment may be required.",
+                    "url": "https://lamnahealthcare.com/refund-policy"
+                },
+                {
+                    "id": "9",
+                    "title": "Billing and Payment Information",
+                    "content": "Our billing department handles all charges related to your care. We accept various payment methods, including credit cards, checks, and online payments. Financial assistance programs are available for eligible patients. Contact us for any billing inquiries.",
+                    "url": "https://lamnahealthcare.com/billing"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": NaN,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 4.0,
+            "line_number": 6
+        },
+        {
+            "inputs.question": "What should I do if I have a non-life-threatening urgent medical issue after hours?",
+            "inputs.chat_history": [],
+            "inputs.answer": "If you have a non-life-threatening urgent medical issue after hours, you can reach out to Lamna Healthcare for support. Our urgent care centers are open 24/7 to assist with such situations. Additionally, we provide after-hours support through our nurse hotline. You can contact the nurse hotline for guidance on managing your non-life-threatening urgent medical issue.",
+            "inputs.context": [
+                {
+                    "id": "11",
+                    "title": "Emergency Contact Procedures",
+                    "content": "In case of a medical emergency, patients should call 911 or visit the nearest emergency room. For urgent but non-life-threatening situations, our urgent care centers are open 24/7. After-hours support is available through our nurse hotline.",
+                    "url": "https://lamnahealthcare.com/emergency-contact"
+                },
+                {
+                    "id": "7",
+                    "title": "Telehealth Services",
+                    "content": "We offer virtual consultations via video conferencing for non-emergency conditions. Patients can schedule telehealth appointments online and will receive a secure link to join the session. Telehealth services are covered by most insurance plans.",
+                    "url": "https://lamnahealthcare.com/telehealth"
+                },
+                {
+                    "id": "4",
+                    "title": "Insurance Claim Procedures",
+                    "content": "To file an insurance claim, patients should submit a completed claim form along with any required documentation, such as receipts or medical reports. Claims can be filed online through our portal or mailed to our billing department. Processing typically takes 7-10 business days.",
+                    "url": "https://lamnahealthcare.com/insurance-claims"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": 3.0,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": NaN,
+            "outputs.Coherence.gpt_coherence": 5.0,
+            "line_number": 7
+        },
+        {
+            "inputs.question": "How can I request a refill for my prescription at Lamna Healthcare?",
+            "inputs.chat_history": [],
+            "inputs.answer": "To request a refill for your prescription at Lamna Healthcare, you have two convenient options:\n\n1. **Online Portal:** You can request a prescription refill through our online portal. Simply log in to your account and follow the refill request process.\n\n2. **Phone:** Alternatively, you can call our pharmacy to request a refill for your prescription.\n\nOnce you submit your refill request, our pharmacy team will process it within 48 hours. Please note that certain medications may require provider approval or an appointment before they can be refilled.\n\nIf you have any further questions or need assistance with your prescription refill, feel free to reach out to us.",
+            "inputs.context": [
+                {
+                    "id": "12",
+                    "title": "Prescription Refill Procedures",
+                    "content": "Patients can request prescription refills through our online portal or by calling our pharmacy. Refill requests are processed within 48 hours. Some medications may require provider approval or an appointment before refilling.",
+                    "url": "https://lamnahealthcare.com/prescription-refills"
+                },
+                {
+                    "id": "4",
+                    "title": "Insurance Claim Procedures",
+                    "content": "To file an insurance claim, patients should submit a completed claim form along with any required documentation, such as receipts or medical reports. Claims can be filed online through our portal or mailed to our billing department. Processing typically takes 7-10 business days.",
+                    "url": "https://lamnahealthcare.com/insurance-claims"
+                },
+                {
+                    "id": "9",
+                    "title": "Billing and Payment Information",
+                    "content": "Our billing department handles all charges related to your care. We accept various payment methods, including credit cards, checks, and online payments. Financial assistance programs are available for eligible patients. Contact us for any billing inquiries.",
+                    "url": "https://lamnahealthcare.com/billing"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": 5.0,
+            "outputs.Groundedness.gpt_groundedness": 1.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 5.0,
+            "line_number": 8
+        },
+        {
+            "inputs.question": "How does Lamna Healthcare protect my personal health information?",
+            "inputs.chat_history": [],
+            "inputs.answer": "Lamna Healthcare takes the protection of your personal health information very seriously. We have robust measures in place to ensure the confidentiality and security of your data. \n\nAccording to our **Data Protection Policy** (Document 14), we use encryption, access controls, and conduct regular security audits to safeguard patient information. Additionally, we adhere to all relevant regulations, including HIPAA, to maintain the confidentiality and integrity of your data.\n\nFurthermore, as outlined in our **Privacy Policy** (Document 2), your personal information is only used for treatment purposes and is not shared with third parties without your consent, except as required by law. Patients also have the right to access and correct their personal information, as stated in our **Medical Record Access Policy** (Document 16).\n\nIf you have any specific concerns or questions regarding the protection of your personal health information, please feel free to ask. Your privacy and security are our top priorities at Lamna Healthcare.",
+            "inputs.context": [
+                {
+                    "id": "2",
+                    "title": "Privacy Policy",
+                    "content": "Lamna Healthcare is committed to protecting your personal information. We use advanced security measures to ensure your data is safe and confidential. Personal data is only used for treatment purposes and is not shared with third parties without your consent, except as required by law. Patients have the right to access and correct their personal information.",
+                    "url": "https://lamnahealthcare.com/privacy-policy"
+                },
+                {
+                    "id": "14",
+                    "title": "Data Protection Policy",
+                    "content": "Our data protection policy outlines how we secure patient information using encryption, access controls, and regular security audits. We comply with all relevant regulations, including HIPAA, to ensure confidentiality and integrity of patient data.",
+                    "url": "https://lamnahealthcare.com/data-protection"
+                },
+                {
+                    "id": "16",
+                    "title": "Medical Record Access Policy",
+                    "content": "Patients have the right to access their medical records. Records can be viewed online via our secure patient portal or requested in paper form. Identification verification is required to protect patient privacy.",
+                    "url": "https://lamnahealthcare.com/medical-records"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": 5.0,
+            "outputs.Groundedness.gpt_groundedness": 5.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 5.0,
+            "line_number": 9
+        },
+        {
+            "inputs.question": "How can I access my medical records at Lamna Healthcare?",
+            "inputs.chat_history": [],
+            "inputs.answer": "At Lamna Healthcare, you can access your medical records in a couple of ways. You have the right to view your medical records online through our secure patient portal. Alternatively, you can request a paper copy of your records. To ensure patient privacy, identification verification is required when accessing medical records. This process helps protect your personal information and maintain confidentiality. If you have any questions or need assistance with accessing your medical records, feel free to reach out to us.",
+            "inputs.context": [
+                {
+                    "id": "16",
+                    "title": "Medical Record Access Policy",
+                    "content": "Patients have the right to access their medical records. Records can be viewed online via our secure patient portal or requested in paper form. Identification verification is required to protect patient privacy.",
+                    "url": "https://lamnahealthcare.com/medical-records"
+                },
+                {
+                    "id": "2",
+                    "title": "Privacy Policy",
+                    "content": "Lamna Healthcare is committed to protecting your personal information. We use advanced security measures to ensure your data is safe and confidential. Personal data is only used for treatment purposes and is not shared with third parties without your consent, except as required by law. Patients have the right to access and correct their personal information.",
+                    "url": "https://lamnahealthcare.com/privacy-policy"
+                },
+                {
+                    "id": "14",
+                    "title": "Data Protection Policy",
+                    "content": "Our data protection policy outlines how we secure patient information using encryption, access controls, and regular security audits. We comply with all relevant regulations, including HIPAA, to ensure confidentiality and integrity of patient data.",
+                    "url": "https://lamnahealthcare.com/data-protection"
+                }
+            ],
+            "outputs.Fluency.gpt_fluency": NaN,
+            "outputs.Groundedness.gpt_groundedness": 5.0,
+            "outputs.Relevance.gpt_relevance": 5.0,
+            "outputs.Coherence.gpt_coherence": 4.0,
+            "line_number": 10
+        }
+    ],
+    "metrics": {
+        "Fluency.gpt_fluency": 4.714285714285714,
+        "Groundedness.gpt_groundedness": 2.090909090909091,
+        "Relevance.gpt_relevance": 4.888888888888889,
+        "Coherence.gpt_coherence": 4.4
+    },
+    "studio_url": "https://ai.azure.com/build/evaluation/ee00ab74-1104-456c-8be5-1cf8cac9327e?wsid=/subscriptions/52222396-7f83-4125-83af-8b3f6d757c82/resourceGroups/rg-genaiops-dev2/providers/Microsoft.MachineLearningServices/workspaces/ai-project-3eov3d5tr4dua"
+}
